@@ -1,0 +1,29 @@
+{
+  "name": "ico-cryptocurrency-website",
+  "version": "1.0.0",
+  "description": "Greetings!",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishinu/ICO-Cryptocurrency-Website.git"
+  },
+  "scripts": {
+    "dev" : "lite-server"
+  },
+  "keywords": [],
+  "author": "Shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishinu/ICO-Cryptocurrency-Website/issues"
+  },
+  "devDependencies": {
+    "lite-server" : "^2.3.0"
+  },
+  "homepage": "https://github.com/ishinu/ICO-Cryptocurrency-Website#readme"
+}
